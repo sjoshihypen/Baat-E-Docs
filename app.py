@@ -91,6 +91,6 @@ def main():
                 text_chunks = get_text_chunks(raw_text)
                 get_vector_store(text_chunks)
                 st.success("Documents processed successfully!")
-
+        st.tile("Designed & Developed By : Sushant Joshi")
 if __name__ == "__main__":
     main()
