@@ -78,7 +78,8 @@ def main():
 
     if user_question:
         user_input(user_question)
-        st.title("Designed & Developed By : Sushant Joshi")
+        
+        st.write("Designed & Developed: Sushant Joshi")
     with st.sidebar:
         st.title("Baat-E Docs")
         st.title("Upload Documents")
