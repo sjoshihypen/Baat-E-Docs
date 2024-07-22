@@ -52,7 +52,8 @@ The primary objective of this project is to create an interactive web applicatio
 
 **1. Clone the Repository:**
 
-git clone https://github.com/yourusername/Chat-with-Documents.git
+git clone https://baat-e-docs-hdwu8f2cbhymnqwmqgucx5.streamlit.app/
+
 cd Chat-with-Documents
 
 **2. Install Dependencies:**
