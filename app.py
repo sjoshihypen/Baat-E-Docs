@@ -77,7 +77,7 @@ def main():
 
     if user_question:
         user_input(user_question)
-        
+    st.write("Designed & Developed: Sushant Joshi")  
     with st.sidebar:
         st.title("Baat-E Docs")
         st.title("Upload Documents")
@@ -89,7 +89,6 @@ def main():
                 raw_text = get_text_from_pdf(pdf_docs) + get_text_from_docx(docx_docs)
                 text_chunks = get_text_chunks(raw_text)
                 get_vector_store(text_chunks)
-                st.success("Documents processed successfully!")
-        st.write("Designed & Developed: Sushant Joshi")        
+                st.success("Documents processed successfully!")      
 if __name__ == "__main__":
     main()
