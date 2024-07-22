@@ -94,3 +94,5 @@ def main():
        
 if __name__ == "__main__":
     main()
+
+st.title("Designed & Developed By : Sushant Joshi")
