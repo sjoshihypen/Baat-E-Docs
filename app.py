@@ -73,8 +73,7 @@ def user_input(user_question):
 def main():
     st.set_page_config(page_title="Chat with Documents", page_icon=":book:")
     st.header("Chat with PDF & Word Documents using Gemini💁")
-    wt.title("Ask a Question from the Documents")
-    user_question = st.text_input( )
+    user_question = st.text_input("Ask a Question from the Documents")
 
     if user_question:
         user_input(user_question)
