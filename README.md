@@ -49,6 +49,7 @@ The primary objective of this project is to create an interactive web applicatio
 * The application integrates with Auth0 for user authentication, allowing users to log in with their Google accounts.
 
 **How to Run the Project**
+
 **1. Clone the Repository:**
 
 git clone https://github.com/yourusername/Chat-with-Documents.git
@@ -57,3 +58,7 @@ cd Chat-with-Documents
 **2. Install Dependencies:**
 
 pip install -r requirements.txt
+
+**3. Set Up Environment Variables:**
+
+Create a .env file in the project root with the following content:
