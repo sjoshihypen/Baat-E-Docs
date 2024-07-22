@@ -78,7 +78,7 @@ def main():
 
     if user_question:
         user_input(user_question)
-
+        st.title("Designed & Developed By : Sushant Joshi")
     with st.sidebar:
         st.title("Baat-E Docs")
         st.title("Upload Documents")
@@ -92,6 +92,5 @@ def main():
                 get_vector_store(text_chunks)
                 st.success("Documents processed successfully!")
                 
-    st.title("Designed & Developed By : Sushant Joshi")
 if __name__ == "__main__":
     main()
