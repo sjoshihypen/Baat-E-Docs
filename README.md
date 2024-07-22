@@ -9,10 +9,15 @@ The primary objective of this project is to create an interactive web applicatio
 **Key Features:**
 
 **1. File Upload :** Users can upload multiple PDF and Word documents.
+
 **2. Text Extraction :** The application extracts text from the uploaded documents.
+
 **3. Text Chunking :** The extracted text is split into manageable chunks for efficient processing.
+
 **4. Vector Store Creation :** The text chunks are converted into embeddings and stored in a FAISS vector store.
+
 **5. Question Answering :** Users can input questions, and the application will search the vector store for relevant information to generate answers.
+
 **6. User Authentication :** Integration with Auth0 for secure user authentication (login with Google).
 
 **How It Works**
