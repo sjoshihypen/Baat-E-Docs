@@ -74,10 +74,15 @@ streamlit run app.py
 
 <p style="font-size: 10px;"><b>Dashboard</b></p>
 
+![Baat-E-Docs(1)](https://github.com/user-attachments/assets/d55e6574-97a3-4b56-8165-cdb2b6a3b196)
 
 
 <p style="font-size: 10px;"><b>Selecting The PDF File Asking The Questions </b></p>
-![image](https://github.com/user-attachments/assets/8e09445a-9e2c-47de-af5d-6f8cd2d58186)
+
+![Baat-E-Docs(2)](https://github.com/user-attachments/assets/6056eeec-7e3e-4d44-b5e5-92a2f74f00c8)
 
 
 <p style="font-size: 10px;"><b>Selecting The Word File Asking The Questions </b></p>
+
+![Baat-E-Docs(3)](https://github.com/user-attachments/assets/805e5a9f-c15f-4333-b40d-e552790b9059)
+
