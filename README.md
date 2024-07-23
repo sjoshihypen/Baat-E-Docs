@@ -79,7 +79,8 @@ streamlit run app.py
 
 <p style="font-size: 10px;"><b>Selecting The PDF File Asking The Questions </b></p>
 
-![Baat-E-Docs(2)](https://github.com/user-attachments/assets/6056eeec-7e3e-4d44-b5e5-92a2f74f00c8)
+![image](https://github.com/user-attachments/assets/08fefde6-87d0-4eb3-a1d8-4a252d3f3065)
+
 
 
 <p style="font-size: 10px;"><b>Selecting The Word File Asking The Questions </b></p>
