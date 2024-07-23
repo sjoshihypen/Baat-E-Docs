@@ -2,11 +2,12 @@
 
 The project, "Chat with PDF & Word Documents using Gemini," is a Streamlit web application designed to allow users to upload PDF and Word documents, extract text from these documents, and ask questions based on the content. The application leverages Google's Generative AI models for text embedding and question answering, making it a powerful tool for document-based Q&A.
 
-<h1 style="font-size: 13px;"><b>Project Overview</b></h1>
-<h1 style="font-size: 11px;"><b>Objective:</b></h1>
+<h1 style="font-size: 5px;"><b>Project Overview</b></h1>
+
+<h1 style="font-size: 5px;"><b>Objective:</b></h1>
 The primary objective of this project is to create an interactive web application that can extract text from uploaded PDF and Word documents and provide accurate answers to user queries based on the document content.
 
-<h1 style="font-size: 7px;"><b>Key Features:</b></h1>
+<h1 style="font-size: 5px;"><b>Key Features:</b></h1>
 
 <p style="font-size: 10px;"><b>1. File Upload : </b> Users can upload multiple PDF and Word documents.</p>
 
@@ -20,9 +21,9 @@ The primary objective of this project is to create an interactive web applicatio
 
 <p style="font-size: 10px;"><b>6. User Authentication : </b> Integration with Auth0 for secure user authentication (login with Google).</p>
 
-**How It Works**
+<h1 style="font-size: 5px;"><b>How It Works</b></h1>
 
-**1. User Interface:**
+<p style="font-size: 10px;"><b>1. User Interface :</b></p>
 
 * The application is built using Streamlit, providing a simple and intuitive interface.
 * Users can upload PDF and Word documents from the sidebar.
