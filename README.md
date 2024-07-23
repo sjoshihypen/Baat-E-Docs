@@ -6,19 +6,19 @@ The project, "Chat with PDF & Word Documents using Gemini," is a Streamlit web a
 <h1 style="font-size: 11px;"><b>Objective:</b></h1>
 The primary objective of this project is to create an interactive web application that can extract text from uploaded PDF and Word documents and provide accurate answers to user queries based on the document content.
 
-<h1 style="font-size: 16px;"><b>Key Features:</b></h1>
+<h1 style="font-size: 14px;"><b>Key Features:</b></h1>
 
-**1. File Upload :** Users can upload multiple PDF and Word documents.
+<h1 style="font-size: 10px;"><b>1. File Upload : </b> Users can upload multiple PDF and Word documents.
 
-**2. Text Extraction :** The application extracts text from the uploaded documents.
+<h1 style="font-size: 10px;"><b>2. Text Extraction : </b> The application extracts text from the uploaded documents.
 
-**3. Text Chunking :** The extracted text is split into manageable chunks for efficient processing.
+<h1 style="font-size: 10px;"><b>3. Text Chunking : </b>  The extracted text is split into manageable chunks for efficient processing.
 
-**4. Vector Store Creation :** The text chunks are converted into embeddings and stored in a FAISS vector store.
+<h1 style="font-size: 10px;"><b>4. Vector Store Creation : </b> The text chunks are converted into embeddings and stored in a FAISS vector store.
 
-**5. Question Answering :** Users can input questions, and the application will search the vector store for relevant information to generate answers.
+<h1 style="font-size: 10px;"><b>5. Question Answering : </b> Users can input questions, and the application will search the vector store for relevant information to generate answers.
 
-**6. User Authentication :** Integration with Auth0 for secure user authentication (login with Google).
+<h1 style="font-size: 10px;"><b>6. User Authentication : </b> Integration with Auth0 for secure user authentication (login with Google).
 
 **How It Works**
 
