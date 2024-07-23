@@ -29,38 +29,38 @@ The primary objective of this project is to create an interactive web applicatio
 * Users can upload PDF and Word documents from the sidebar.
 * Users can ask questions in the main interface.
   
-**2. Document Processing:**
+<p style="font-size: 10px;"><b>2. Document Processing :</b></p>
 
 * Text extraction is done using PyPDF2 for PDFs and python-docx for Word documents.
 * Extracted text is split into chunks using RecursiveCharacterTextSplitter to manage large documents efficiently.
 
-**3. Vector Store:**
+<p style="font-size: 10px;"><b>3. Vector Store:</b></p>
 
 * The text chunks are converted into embeddings using Google's Generative AI embeddings model.
 * These embeddings are stored in a FAISS vector store for efficient similarity searches.
 
-**4. Question Answering:**
+<p style="font-size: 10px;"><b>4. Question Answering:</b></p>
 
 * A conversational chain is created using the ChatGoogleGenerativeAI model.
 * When a user asks a question, the application searches the vector store for relevant text chunks.
 * The conversational chain generates an answer based on the retrieved chunks.
 
-**5. Authentication:**
+<p style="font-size: 10px;"><b>5. Authentication:</b></p>
 
 * The application integrates with Auth0 for user authentication, allowing users to log in with their Google accounts.
 
-**How to Run the Project**
+<h1 style="font-size: 5px;"><b>How to Run the Project</b></h1>
 
-**1. Clone the Repository:**
+<p style="font-size: 10px;"><b>1. Clone the Repository:</b></p>
 
 git clone https://baat-e-docs-hdwu8f2cbhymnqwmqgucx5.streamlit.app/
 
 cd Chat-with-Documents
 
-**2. Install Dependencies:**
+<p style="font-size: 10px;"><b>2. Install Dependencies:</b></p>
 
 pip install -r requirements.txt
 
-**3. Set Up Environment Variables:**
+<p style="font-size: 10px;"><b>3. Set Up Environment Variables :</b></p>
 
 Create a .env file in the project root with the following content:
