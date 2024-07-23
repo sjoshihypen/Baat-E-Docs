@@ -73,9 +73,11 @@ streamlit run app.py
 <h3 style="font-size: 5px;"><b>Result</b></h3>
 
 <p style="font-size: 10px;"><b>Dashboard</b></p>
-![image](https://github.com/user-attachments/assets/05278519-daf3-4135-824c-5c8902b97439)
+![image](https://github.com/user-attachments/assets/c2f7877e-7c47-4800-8c13-b44aa0d0cfa8)
+
 
 <p style="font-size: 10px;"><b>Selecting The PDF File Asking The Questions </b></p>
-![image](https://github.com/user-attachments/assets/eaa0cdd7-7e02-4340-9ca4-6f8c9a781709)
+![image](https://github.com/user-attachments/assets/8e09445a-9e2c-47de-af5d-6f8cd2d58186)
+
 
 <p style="font-size: 10px;"><b>Selecting The Word File Asking The Questions </b></p>
