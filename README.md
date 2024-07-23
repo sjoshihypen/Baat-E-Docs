@@ -1,4 +1,4 @@
-![Baat-E-Docs(5)](https://github.com/user-attachments/assets/ab9d775a-1c6e-44cd-b2f0-11e3dd58ca72)<h1 style="font-size: 20px;"><b>Baat-E Docs</b></h1>
+<h1 style="font-size: 20px;"><b>Baat-E Docs</b></h1>
 
 The project, "Chat with PDF & Word Documents using Gemini," is a Streamlit web application designed to allow users to upload PDF and Word documents, extract text from these documents, and ask questions based on the content. The application leverages Google's Generative AI models for text embedding and question answering, making it a powerful tool for document-based Q&A.
 
