@@ -73,4 +73,6 @@ streamlit run app.py
 <h1 style="font-size: 5px;"><b>Results</b></h1>
 
 
-https://drive.google.com/file/d/17TDV-znZy8xYhloqUGYdK7hqP0Nt_IeB/view?usp=sharing
+![image](https://github.com/user-attachments/assets/05278519-daf3-4135-824c-5c8902b97439)
+
+![image](https://github.com/user-attachments/assets/d5800c66-4ecb-4355-90f2-f8cce9d660c1)
