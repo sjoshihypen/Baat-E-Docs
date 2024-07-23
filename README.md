@@ -21,7 +21,7 @@ The primary objective of this project is to create an interactive web applicatio
 
 <p style="font-size: 10px;"><b>6. User Authentication : </b> Integration with Auth0 for secure user authentication (login with Google).</p>
 
-<h1 style="font-size: 5px;"><b>How It Works</b></h1>
+<h3 style="font-size: 5px;"><b>How It Works</b></h3>
 
 <p style="font-size: 10px;"><b>1. User Interface :</b></p>
 
@@ -49,7 +49,7 @@ The primary objective of this project is to create an interactive web applicatio
 
 * The application integrates with Auth0 for user authentication, allowing users to log in with their Google accounts.
 
-<h1 style="font-size: 5px;"><b>How to Run the Project</b></h1>
+<h3 style="font-size: 5px;"><b>How to Run the Project</b></h3>
 
 <p style="font-size: 10px;"><b>1. Clone the Repository:</b></p>
 
@@ -70,13 +70,12 @@ GOOGLE_API_KEY=your_google_api_key
 <p style="font-size: 10px;"><b>4.Run the Application :</b></p>
 streamlit run app.py
 
-<h1 style="font-size: 5px;"><b>Results</b></h1>
+<h3 style="font-size: 5px;"><b>Result</b></h3>
 
-
+<p style="font-size: 10px;"><b>Dashboard</b></p>
 ![image](https://github.com/user-attachments/assets/05278519-daf3-4135-824c-5c8902b97439)
 
-
-
-
+<p style="font-size: 10px;"><b>Selecting The PDF File Asking The Questions </b></p>
 ![image](https://github.com/user-attachments/assets/eaa0cdd7-7e02-4340-9ca4-6f8c9a781709)
 
+<p style="font-size: 10px;"><b>Selecting The Word File Asking The Questions </b></p>
