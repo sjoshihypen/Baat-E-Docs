@@ -8,17 +8,17 @@ The primary objective of this project is to create an interactive web applicatio
 
 <h1 style="font-size: 14px;"><b>Key Features:</b></h1>
 
-<p style="font-size: 10px;"><b>1. File Upload : </b> Users can upload multiple PDF and Word documents.
+<p style="font-size: 10px;"><b>1. File Upload : </b> Users can upload multiple PDF and Word documents.</p>
 
-<h1 style="font-size: 10px;"><b>2. Text Extraction : </b> The application extracts text from the uploaded documents.
+<p style="font-size: 10px;"><b>2. Text Extraction : </b> The application extracts text from the uploaded documents.</p>
 
-<h1 style="font-size: 10px;"><b>3. Text Chunking : </b>  The extracted text is split into manageable chunks for efficient processing.
+<p style="font-size: 10px;"><b>3. Text Chunking : </b>  The extracted text is split into manageable chunks for efficient processing.</p>
 
-<h1 style="font-size: 10px;"><b>4. Vector Store Creation : </b> The text chunks are converted into embeddings and stored in a FAISS vector store.
+<p style="font-size: 10px;"><b>4. Vector Store Creation : </b> The text chunks are converted into embeddings and stored in a FAISS vector store.</p>
 
-<h1 style="font-size: 10px;"><b>5. Question Answering : </b> Users can input questions, and the application will search the vector store for relevant information to generate answers.
+<p style="font-size: 10px;"><b>5. Question Answering : </b> Users can input questions, and the application will search the vector store for relevant information to generate answers.</p>
 
-<h1 style="font-size: 10px;"><b>6. User Authentication : </b> Integration with Auth0 for secure user authentication (login with Google).
+<p style="font-size: 10px;"><b>6. User Authentication : </b> Integration with Auth0 for secure user authentication (login with Google).</p>
 
 **How It Works**
 
