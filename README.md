@@ -53,14 +53,20 @@ The primary objective of this project is to create an interactive web applicatio
 
 <p style="font-size: 10px;"><b>1. Clone the Repository:</b></p>
 
-git clone https://baat-e-docs-hdwu8f2cbhymnqwmqgucx5.streamlit.app/
+**git clone https://baat-e-docs-hdwu8f2cbhymnqwmqgucx5.streamlit.app/**
 
-cd Chat-with-Documents
+**cd Chat-with-Documents**
 
-<p style="font-size: 10px;"><b>2. Install Dependencies:</b></p>
+<p style="font-size: 10px;"><b>2. Install Dependencies :</b></p>
 
-pip install -r requirements.txt
+**pip install -r requirements.txt**
 
 <p style="font-size: 10px;"><b>3. Set Up Environment Variables :</b></p>
 
 Create a .env file in the project root with the following content:
+
+**GOOGLE_API_KEY=your_google_api_key**
+
+<p style="font-size: 10px;"><b>4.Run the Application :</b></p>
+**streamlit run app.py**
+
