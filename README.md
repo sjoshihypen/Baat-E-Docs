@@ -6,7 +6,7 @@ The project, "Chat with PDF & Word Documents using Gemini," is a Streamlit web a
 <h1 style="font-size: 11px;"><b>Objective:</b></h1>
 The primary objective of this project is to create an interactive web application that can extract text from uploaded PDF and Word documents and provide accurate answers to user queries based on the document content.
 
-<p style="font-size: 14px;"><b>Key Features:</b></p>
+<h1 style="font-size: 14px;"><b>Key Features:</b></h1>
 
 <p style="font-size: 10px;"><b>1. File Upload : </b> Users can upload multiple PDF and Word documents.
 
