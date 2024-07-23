@@ -73,7 +73,7 @@ streamlit run app.py
 <h3 style="font-size: 5px;"><b>Result</b></h3>
 
 <p style="font-size: 10px;"><b>Dashboard</b></p>
-![image](https://github.com/user-attachments/assets/c2f7877e-7c47-4800-8c13-b44aa0d0cfa8)
+
 
 
 <p style="font-size: 10px;"><b>Selecting The PDF File Asking The Questions </b></p>
