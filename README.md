@@ -77,13 +77,13 @@ streamlit run app.py
 ![Baat-E-Docs(1)](https://github.com/user-attachments/assets/d55e6574-97a3-4b56-8165-cdb2b6a3b196)
 
 
-<p style="font-size: 10px;"><b>Selecting The PDF File Asking The Questions </b></p>
+<p style="font-size: 10px;"><b>Selecting The PDF File To Asking The Questions </b></p>
 
-![image](https://github.com/user-attachments/assets/08fefde6-87d0-4eb3-a1d8-4a252d3f3065)
+![Baat-E-Docs(2)](https://github.com/user-attachments/assets/8d4dac55-5e69-48a9-a382-647a95cfb60e)
 
 
+<p style="font-size: 10px;"><b>Selecting The Word File To Asking The Questions </b></p>
 
-<p style="font-size: 10px;"><b>Selecting The Word File Asking The Questions </b></p>
+![Baat-E-Docs(3)](https://github.com/user-attachments/assets/c7ecc10d-64e7-4bb3-9aea-23ce538f3dea)
 
-![Baat-E-Docs(3)](https://github.com/user-attachments/assets/805e5a9f-c15f-4333-b40d-e552790b9059)
 
