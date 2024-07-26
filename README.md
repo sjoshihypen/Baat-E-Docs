@@ -92,6 +92,6 @@ streamlit run app.py
 ![Baat-E-Docs(5)](https://github.com/user-attachments/assets/d1710880-ebeb-4f44-a7fc-62db56c7623e)
 
 
-<p style="font-size: 10px;"><b>Asking The Questions From The PDF File </b></p>
+<p style="font-size: 10px;"><b>Asking The Questions From The Word File </b></p>
 
 ![Baat-E-Docs(6)](https://github.com/user-attachments/assets/2f4bf960-f634-442d-a009-61463144cb66)
